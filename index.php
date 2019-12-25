@@ -12,7 +12,7 @@
     }
 </style>
 <canvas id="scene" style="width:100%;"></canvas>
-<input id="copy" type="hidden" value="Bích Xủi ♥" />
+<input id="copy" type="hidden" value="You're Mai ♥" />
 
 <script>
     var canvas = document.querySelector("#scene"),
